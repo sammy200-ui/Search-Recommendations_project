@@ -71,16 +71,3 @@ npm start
 3. OpenAI processes it and returns recommendations.
 4. The chatbot displays the suggestions in the UI.
 
-## **Future Enhancements**
-
-- 🎙️ **Voice Input for AI Chatbot**
-- ⭐ **User Ratings & Reviews**
-- 📊 **Trending Content Section**
-- 🎭 **Genre-Based Filters**
-
-## **License**
-This project is open-source under the **MIT License**.
-
----
-
-🚀 **Happy Coding!** 🎥📺🎭
