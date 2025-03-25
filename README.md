@@ -15,7 +15,7 @@ This is a **Movie, TV Show & Anime Recommendation App** built using **JavaScript
 
 - **Frontend:** React.js
 - **APIs:** OpenAI GPT-4 API, TMDB API
-- **Styling:** Tailwind CSS (Optional for better UI)
+- **Styling:** CSS (Optional for better UI)
 - **State Management:** React Hooks (useState, useEffect)
 
 ## **Installation & Setup**
@@ -35,14 +35,8 @@ npm install
 - **TMDB API Key:** Sign up at [TMDB](https://www.themoviedb.org/) and generate an API key.
 - **OpenAI API Key:** Get an API key from [OpenAI](https://platform.openai.com/).
 
-### **4️⃣ Store API Keys in Environment Variables**
-Create a `.env` file in the root directory and add:
-```env
-REACT_APP_TMDB_API_KEY=your_tmdb_api_key_here
-REACT_APP_OPENAI_API_KEY=your_openai_api_key_here
-```
 
-### **5️⃣ Run the Project**
+### **4️⃣ Run the Project**
 ```sh
 npm start
 ```
